@@ -1,0 +1,57 @@
+,cluster,Gene,Query_description,GCF_id,Cons_aa,Var_aa,AA_pos,Effect,Isolation_source
+0,E,rpsP,30S ribosomal protein S16 , GCF_001982195.1,T,I,39,Moderately conservative,cacao been fermentation
+1,E,rpmA,50S ribosomal protein L27 , GCF_009759825.1,T,I,37,Moderately conservative,"human feces (woman, 60 years old)"
+2,E,rpmA,50S ribosomal protein L27 , GCF_001754025.1,T,I,37,Moderately conservative,Traditional cheese
+3,G,rpsI,30S ribosomal protein S9 , GCF_012974545.1,Q,H,60,Conservative,kimchi
+4,I,rplS,50S ribosomal protein L19 , GCF_016894405.1,P,T,113,Conservative,Ogi (red sorghum)
+5,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_017963505.1,D,N,55,Conservative,sour bamboo shoot
+6,I,fabZ1,(3R)-hydroxyacyl-[acyl carrier protein] dehydratase , GCF_001982335.1,D,Y,129,Radical,cacao been fermentation
+7,I,fabZ1,(3R)-hydroxyacyl-[acyl carrier protein] dehydratase , GCF_017581065.1,G,S,128,Moderately conservative,Cactus
+8,E,group_23651,hypothetical protein , GCF_900618215.1,G,C,15,Radical,Not reported
+9,I,dltX,D-Ala-teichoic acid biosynthesis protein , GCF_001597605.1,L,F,5,Conservative,stool material
+10,I,dltX,D-Ala-teichoic acid biosynthesis protein , GCF_001596195.1,L,F,5,Conservative,human stool
+11,I,rplS,50S ribosomal protein L19 , GCF_001675425.1,N,S,12,Conservative,Healthy adult feces
+12,B,group_17432,"general stress protein, Gls24 family ", GCF_018993285.1,N,S,109,Conservative,Cucumber fermentation brine
+13,B,group_17432,"general stress protein, Gls24 family ", GCF_018991855.1,N,S,109,Conservative,cucumber fermantation
+14,B,group_17432,"general stress protein, Gls24 family ", GCF_018991195.1,N,S,109,Conservative,cucumber fermentation brine
+15,E,group_15918,hypothetical protein , GCF_019308385.1,R,C,2,Radical,kimchi
+16,I,rplP,50S ribosomal protein L16 , GCF_017963505.1,E,A,112,Moderately Radical,sour bamboo shoot
+17,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_016838645.1,S,A,87,Moderately conservative,Ripening beef
+18,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_002286275.1,S,A,87,Moderately conservative,Commercial dietary supplements
+19,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_002116955.1,S,A,87,Moderately conservative,kimchi
+20,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_001888525.1,S,A,87,Moderately conservative,Not reported
+21,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_001888425.1,S,A,87,Moderately conservative,Not reported
+22,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_001888355.1,S,A,87,Moderately conservative,Not reported
+23,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_001888335.1,S,A,87,Moderately conservative,Not reported
+24,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_001888325.1,S,A,87,Moderately conservative,Not reported
+25,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_001619295.1,S,A,87,Moderately conservative,missing
+26,I,pts23B,"PTS system, cellobiose-specific EIIB component ", GCF_001278015.1,S,A,87,Moderately conservative,fermented soybean
+27,B,cspP,cold shock protein CspP , GCF_020552445.1,A,T,61,Moderately conservative,pickled radish
+28,B,cspP,cold shock protein CspP , GCF_020552435.1,A,T,61,Moderately conservative,pickled radish
+29,B,cspP,cold shock protein CspP , GCF_020552425.1,A,T,61,Moderately conservative,pickled radish
+30,B,cspP,cold shock protein CspP , GCF_020552405.1,A,T,61,Moderately conservative,pickled radish
+31,B,cspP,cold shock protein CspP , GCF_020552325.1,A,T,61,Moderately conservative,pickled radish
+32,B,cspP,cold shock protein CspP , GCF_020552285.1,A,T,61,Moderately conservative,pickled radish
+33,B,cspP,cold shock protein CspP , GCF_020552235.1,A,T,61,Moderately conservative,pickled radish
+34,B,cspP,cold shock protein CspP , GCF_020552215.1,A,T,61,Moderately conservative,pickled radish
+35,B,cspP,cold shock protein CspP , GCF_020552185.1,A,T,61,Moderately conservative,pickled radish
+36,B,cspP,cold shock protein CspP , GCF_020552095.1,A,T,61,Moderately conservative,pickled radish
+37,B,cspP,cold shock protein CspP , GCF_020552075.1,A,T,61,Moderately conservative,pickled radish
+38,B,cspP,cold shock protein CspP , GCF_020552065.1,A,T,61,Moderately conservative,pickled radish
+39,B,cspP,cold shock protein CspP , GCF_020552045.1,A,T,61,Moderately conservative,pickled radish
+40,B,cspP,cold shock protein CspP , GCF_009914095.1,A,T,61,Moderately conservative,Water kimchi
+41,B,cspP,cold shock protein CspP , GCF_003627355.1,A,T,61,Moderately conservative,healthy infant fecal samples
+42,B,cspP,cold shock protein CspP , GCF_001659745.1,A,T,61,Moderately conservative,raw cow milk
+43,B,cspP,cold shock protein CspP , GCF_000338115.2,A,T,61,Moderately conservative,healthy newborn fecal sample
+44,I,dltX,D-Ala-teichoic acid biosynthesis protein , GCF_006770505.1,A,V,18,Moderately conservative,healthy adult fecal sample
+45,I,fabZ1,(3R)-hydroxyacyl-[acyl carrier protein] dehydratase , GCF_001982165.1,M,I,126,Conservative,cacao been fermentation
+46,I,fabZ1,(3R)-hydroxyacyl-[acyl carrier protein] dehydratase , GCF_001597605.1,M,I,126,Conservative,stool material
+47,I,fabZ1,(3R)-hydroxyacyl-[acyl carrier protein] dehydratase , GCF_001596195.1,M,I,126,Conservative,human stool
+48,I,dltX,D-Ala-teichoic acid biosynthesis protein , GCF_013307305.1,I,V,39,Conservative,kefir
+49,E,rpsP,30S ribosomal protein S16 , GCF_020916405.1,K,N,50,Moderately conservative,Meat samples
+50,E,rpsP,30S ribosomal protein S16 , GCF_003045725.1,K,N,50,Moderately conservative,Fruits and Vegetables
+51,E,rpsP,30S ribosomal protein S16 , GCF_003045645.1,K,N,50,Moderately conservative,Fruits and Vegetables
+52,E,rpsP,30S ribosomal protein S16 , GCF_900290135.1,K,R,71,Conservative,Not reported
+53,E,rpsP,30S ribosomal protein S16 , GCF_900290125.1,K,R,71,Conservative,Not reported
+54,E,rpsP,30S ribosomal protein S16 , GCF_900290085.1,K,R,71,Conservative,Not reported
+55,F,rpsL,30S ribosomal protein S12 , GCF_002290185.1,K,R,101,Conservative,Not reported

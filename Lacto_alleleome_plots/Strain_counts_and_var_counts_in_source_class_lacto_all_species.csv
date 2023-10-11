@@ -1,0 +1,779 @@
+,Genus,Species,Source_class,GCF_id,Variants,Total variants,Total strains,Variant %
+0,Lacticaseibacillus,Lacticaseibacillus_paracasei,Alcoholic drink,2,2320,431036,172,0.54
+1,Lacticaseibacillus,Lacticaseibacillus_paracasei,Animal,3,10442,431036,172,2.42
+2,Lacticaseibacillus,Lacticaseibacillus_paracasei,Animal gut,1,7693,431036,172,1.78
+3,Lacticaseibacillus,Lacticaseibacillus_paracasei,Apple dumpster,1,969,431036,172,0.22
+4,Lacticaseibacillus,Lacticaseibacillus_paracasei,Bakery products,1,1502,431036,172,0.35
+5,Lacticaseibacillus,Lacticaseibacillus_paracasei,Blood,2,1929,431036,172,0.45
+6,Lacticaseibacillus,Lacticaseibacillus_paracasei,Cheese,30,33262,431036,172,7.72
+7,Lacticaseibacillus,Lacticaseibacillus_paracasei,Commercial products,1,857,431036,172,0.2
+8,Lacticaseibacillus,Lacticaseibacillus_paracasei,Congee,1,952,431036,172,0.22
+9,Lacticaseibacillus,Lacticaseibacillus_paracasei,Dairy products,6,7123,431036,172,1.65
+10,Lacticaseibacillus,Lacticaseibacillus_paracasei,Dietary supplements,8,7624,431036,172,1.77
+11,Lacticaseibacillus,Lacticaseibacillus_paracasei,Feces,38,55749,431036,172,12.93
+12,Lacticaseibacillus,Lacticaseibacillus_paracasei,Fermented food,15,15734,431036,172,3.65
+13,Lacticaseibacillus,Lacticaseibacillus_paracasei,Fermented milk,9,9882,431036,172,2.29
+14,Lacticaseibacillus,Lacticaseibacillus_paracasei,Fodder,2,2098,431036,172,0.49
+15,Lacticaseibacillus,Lacticaseibacillus_paracasei,Fruits,1,1015,431036,172,0.24
+16,Lacticaseibacillus,Lacticaseibacillus_paracasei,Human,28,41116,431036,172,9.54
+17,Lacticaseibacillus,Lacticaseibacillus_paracasei,Human gut,14,24248,431036,172,5.63
+18,Lacticaseibacillus,Lacticaseibacillus_paracasei,Industry,1,943,431036,172,0.22
+19,Lacticaseibacillus,Lacticaseibacillus_paracasei,Lab culture,1,853,431036,172,0.2
+20,Lacticaseibacillus,Lacticaseibacillus_paracasei,Meat & meat products,1,971,431036,172,0.23
+21,Lacticaseibacillus,Lacticaseibacillus_paracasei,Milk,11,12861,431036,172,2.98
+22,Lacticaseibacillus,Lacticaseibacillus_paracasei,Oral cavity,3,4204,431036,172,0.98
+23,Lacticaseibacillus,Lacticaseibacillus_paracasei,Other food,3,3249,431036,172,0.75
+24,Lacticaseibacillus,Lacticaseibacillus_paracasei,Plants,3,3044,431036,172,0.71
+25,Lacticaseibacillus,Lacticaseibacillus_paracasei,Probiotics,2,2101,431036,172,0.49
+26,Lacticaseibacillus,Lacticaseibacillus_paracasei,Starter culture,1,1038,431036,172,0.24
+27,Lacticaseibacillus,Lacticaseibacillus_paracasei,Unknown,85,138985,431036,172,32.24
+28,Lacticaseibacillus,Lacticaseibacillus_paracasei,Urine,3,6124,431036,172,1.42
+29,Lacticaseibacillus,Lacticaseibacillus_paracasei,Vagina,16,30935,431036,172,7.18
+30,Lacticaseibacillus,Lacticaseibacillus_paracasei,Yoghurt,1,1213,431036,172,0.28
+31,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Animal organs,1,1462,338751,180,0.43
+32,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Bakery products,1,1975,338751,180,0.58
+33,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Blood,19,39599,338751,180,11.69
+34,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Cheese,5,9480,338751,180,2.8
+35,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Dairy products,7,11714,338751,180,3.46
+36,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Dietary supplements,10,17659,338751,180,5.21
+37,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Feces,31,62246,338751,180,18.38
+38,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Fermented food,3,4414,338751,180,1.3
+39,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Fermented milk,7,12168,338751,180,3.59
+40,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Fodder,1,1267,338751,180,0.37
+41,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Human,9,17691,338751,180,5.22
+42,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Human gut,15,27941,338751,180,8.25
+43,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Medical device,2,4729,338751,180,1.4
+44,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Medical procedure,4,7154,338751,180,2.11
+45,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Milk,3,5832,338751,180,1.72
+46,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Oral cavity,3,6619,338751,180,1.95
+47,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Plants,1,1324,338751,180,0.39
+48,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Probiotics,7,15331,338751,180,4.53
+49,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Starter culture,1,2221,338751,180,0.66
+50,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Unknown,42,73367,338751,180,21.66
+51,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Vagina,6,9980,338751,180,2.95
+52,Lacticaseibacillus,Lacticaseibacillus_rhamnosus,Yoghurt,2,4578,338751,180,1.35
+53,Lactiplantibacillus,Lactiplantibacillus_pentosus,Alcoholic drink,5,11283,924170,52,1.22
+54,Lactiplantibacillus,Lactiplantibacillus_pentosus,Animal,6,19988,924170,52,2.16
+55,Lactiplantibacillus,Lactiplantibacillus_pentosus,Animal gut,3,12324,924170,52,1.33
+56,Lactiplantibacillus,Lactiplantibacillus_pentosus,Apple dumpster,1,969,924170,52,0.1
+57,Lactiplantibacillus,Lactiplantibacillus_pentosus,Bakery products,2,2335,924170,52,0.25
+58,Lactiplantibacillus,Lactiplantibacillus_pentosus,Biofilm,5,13534,924170,52,1.46
+59,Lactiplantibacillus,Lactiplantibacillus_pentosus,Blood,3,5689,924170,52,0.62
+60,Lactiplantibacillus,Lactiplantibacillus_pentosus,Cheese,43,51951,924170,52,5.62
+61,Lactiplantibacillus,Lactiplantibacillus_pentosus,Commercial products,1,857,924170,52,0.09
+62,Lactiplantibacillus,Lactiplantibacillus_pentosus,Congee,1,952,924170,52,0.1
+63,Lactiplantibacillus,Lactiplantibacillus_pentosus,Dairy products,12,18575,924170,52,2.01
+64,Lactiplantibacillus,Lactiplantibacillus_pentosus,Dietary supplements,8,7624,924170,52,0.82
+65,Lactiplantibacillus,Lactiplantibacillus_pentosus,Environment,6,14824,924170,52,1.6
+66,Lactiplantibacillus,Lactiplantibacillus_pentosus,Feces,50,83859,924170,52,9.07
+67,Lactiplantibacillus,Lactiplantibacillus_pentosus,Fermented food,65,130718,924170,52,14.14
+68,Lactiplantibacillus,Lactiplantibacillus_pentosus,Fermented milk,12,14916,924170,52,1.61
+69,Lactiplantibacillus,Lactiplantibacillus_pentosus,Fish gut,1,838,924170,52,0.09
+70,Lactiplantibacillus,Lactiplantibacillus_pentosus,Fodder,3,4512,924170,52,0.49
+71,Lactiplantibacillus,Lactiplantibacillus_pentosus,Fruits,1,1015,924170,52,0.11
+72,Lactiplantibacillus,Lactiplantibacillus_pentosus,Human,41,82300,924170,52,8.91
+73,Lactiplantibacillus,Lactiplantibacillus_pentosus,Human gut,20,40568,924170,52,4.39
+74,Lactiplantibacillus,Lactiplantibacillus_pentosus,Industry,1,943,924170,52,0.1
+75,Lactiplantibacillus,Lactiplantibacillus_pentosus,Kitchen E,1,957,924170,52,0.1
+76,Lactiplantibacillus,Lactiplantibacillus_pentosus,Lab culture,1,853,924170,52,0.09
+77,Lactiplantibacillus,Lactiplantibacillus_pentosus,Meat & meat products,6,6505,924170,52,0.7
+78,Lactiplantibacillus,Lactiplantibacillus_pentosus,Milk,16,21473,924170,52,2.32
+79,Lactiplantibacillus,Lactiplantibacillus_pentosus,Milk products,2,3570,924170,52,0.39
+80,Lactiplantibacillus,Lactiplantibacillus_pentosus,Oral cavity,5,8190,924170,52,0.89
+81,Lactiplantibacillus,Lactiplantibacillus_pentosus,Other food,6,5857,924170,52,0.63
+82,Lactiplantibacillus,Lactiplantibacillus_pentosus,Pickles,2,7502,924170,52,0.81
+83,Lactiplantibacillus,Lactiplantibacillus_pentosus,Plants,3,3044,924170,52,0.33
+84,Lactiplantibacillus,Lactiplantibacillus_pentosus,Probiotics,3,4176,924170,52,0.45
+85,Lactiplantibacillus,Lactiplantibacillus_pentosus,Soil,1,2517,924170,52,0.27
+86,Lactiplantibacillus,Lactiplantibacillus_pentosus,Starter culture,9,19125,924170,52,2.07
+87,Lactiplantibacillus,Lactiplantibacillus_pentosus,Unknown,155,275693,924170,52,29.83
+88,Lactiplantibacillus,Lactiplantibacillus_pentosus,Urine,3,6124,924170,52,0.66
+89,Lactiplantibacillus,Lactiplantibacillus_pentosus,Vagina,17,34762,924170,52,3.76
+90,Lactiplantibacillus,Lactiplantibacillus_pentosus,Yoghurt,2,3248,924170,52,0.35
+91,Lactiplantibacillus,Lactiplantibacillus_plantarum,Alcoholic drink,6,4264,507116,611,0.84
+92,Lactiplantibacillus,Lactiplantibacillus_plantarum,Animal,2,1294,507116,611,0.26
+93,Lactiplantibacillus,Lactiplantibacillus_plantarum,Apple dumpster,1,629,507116,611,0.12
+94,Lactiplantibacillus,Lactiplantibacillus_plantarum,Bakery products,16,30785,507116,611,6.07
+95,Lactiplantibacillus,Lactiplantibacillus_plantarum,Beehive,1,679,507116,611,0.13
+96,Lactiplantibacillus,Lactiplantibacillus_plantarum,Brine,1,852,507116,611,0.17
+97,Lactiplantibacillus,Lactiplantibacillus_plantarum,Cheese,19,16164,507116,611,3.19
+98,Lactiplantibacillus,Lactiplantibacillus_plantarum,Dairy products,3,2445,507116,611,0.48
+99,Lactiplantibacillus,Lactiplantibacillus_plantarum,Dietary supplements,10,6505,507116,611,1.28
+100,Lactiplantibacillus,Lactiplantibacillus_plantarum,Environment,1,633,507116,611,0.12
+101,Lactiplantibacillus,Lactiplantibacillus_plantarum,Feces,132,97243,507116,611,19.18
+102,Lactiplantibacillus,Lactiplantibacillus_plantarum,Fermented food,103,88929,507116,611,17.54
+103,Lactiplantibacillus,Lactiplantibacillus_plantarum,Fermented milk,14,10159,507116,611,2.0
+104,Lactiplantibacillus,Lactiplantibacillus_plantarum,Fish,1,644,507116,611,0.13
+105,Lactiplantibacillus,Lactiplantibacillus_plantarum,Fodder,11,10297,507116,611,2.03
+106,Lactiplantibacillus,Lactiplantibacillus_plantarum,Fruit fly diet,2,1258,507116,611,0.25
+107,Lactiplantibacillus,Lactiplantibacillus_plantarum,Fruit juice,1,626,507116,611,0.12
+108,Lactiplantibacillus,Lactiplantibacillus_plantarum,Fruits,6,4252,507116,611,0.84
+109,Lactiplantibacillus,Lactiplantibacillus_plantarum,Fruits & Vegetables,4,3060,507116,611,0.6
+110,Lactiplantibacillus,Lactiplantibacillus_plantarum,Gut biopsy,1,717,507116,611,0.14
+111,Lactiplantibacillus,Lactiplantibacillus_plantarum,Honey,1,633,507116,611,0.12
+112,Lactiplantibacillus,Lactiplantibacillus_plantarum,Human,6,4096,507116,611,0.81
+113,Lactiplantibacillus,Lactiplantibacillus_plantarum,Human gut,10,6661,507116,611,1.31
+114,Lactiplantibacillus,Lactiplantibacillus_plantarum,Industry,2,4223,507116,611,0.83
+115,Lactiplantibacillus,Lactiplantibacillus_plantarum,Insect gut,1,664,507116,611,0.13
+116,Lactiplantibacillus,Lactiplantibacillus_plantarum,Insects,2,1348,507116,611,0.27
+117,Lactiplantibacillus,Lactiplantibacillus_plantarum,Kitchen E,1,721,507116,611,0.14
+118,Lactiplantibacillus,Lactiplantibacillus_plantarum,Lab culture,1,740,507116,611,0.15
+119,Lactiplantibacillus,Lactiplantibacillus_plantarum,Meat & meat products,16,11412,507116,611,2.25
+120,Lactiplantibacillus,Lactiplantibacillus_plantarum,Medium,7,4400,507116,611,0.87
+121,Lactiplantibacillus,Lactiplantibacillus_plantarum,Milk,7,5080,507116,611,1.0
+122,Lactiplantibacillus,Lactiplantibacillus_plantarum,Milk products,5,3494,507116,611,0.69
+123,Lactiplantibacillus,Lactiplantibacillus_plantarum,Nanchang,1,689,507116,611,0.14
+124,Lactiplantibacillus,Lactiplantibacillus_plantarum,Non-alcoholic drink,2,1375,507116,611,0.27
+125,Lactiplantibacillus,Lactiplantibacillus_plantarum,Ogi,1,616,507116,611,0.12
+126,Lactiplantibacillus,Lactiplantibacillus_plantarum,Other food,22,17190,507116,611,3.39
+127,Lactiplantibacillus,Lactiplantibacillus_plantarum,Pickles,50,42025,507116,611,8.29
+128,Lactiplantibacillus,Lactiplantibacillus_plantarum,Pig feed,1,711,507116,611,0.14
+129,Lactiplantibacillus,Lactiplantibacillus_plantarum,Piglets,1,884,507116,611,0.17
+130,Lactiplantibacillus,Lactiplantibacillus_plantarum,Pit mud,1,652,507116,611,0.13
+131,Lactiplantibacillus,Lactiplantibacillus_plantarum,Plants,3,2344,507116,611,0.46
+132,Lactiplantibacillus,Lactiplantibacillus_plantarum,Probiotics,2,1391,507116,611,0.27
+133,Lactiplantibacillus,Lactiplantibacillus_plantarum,Quinoa seeds,3,1977,507116,611,0.39
+134,Lactiplantibacillus,Lactiplantibacillus_plantarum,Rice wine rice syrup,1,637,507116,611,0.13
+135,Lactiplantibacillus,Lactiplantibacillus_plantarum,Starter culture,5,6366,507116,611,1.26
+136,Lactiplantibacillus,Lactiplantibacillus_plantarum,Surface sterilised adult,1,738,507116,611,0.15
+137,Lactiplantibacillus,Lactiplantibacillus_plantarum,Ting,1,618,507116,611,0.12
+138,Lactiplantibacillus,Lactiplantibacillus_plantarum,Unknown,111,96600,507116,611,19.05
+139,Lactiplantibacillus,Lactiplantibacillus_plantarum,Urine,1,635,507116,611,0.13
+140,Lactiplantibacillus,Lactiplantibacillus_plantarum,Vegetables,2,1368,507116,611,0.27
+141,Lactiplantibacillus,Lactiplantibacillus_plantarum,Water,1,628,507116,611,0.12
+142,Lactiplantibacillus,Lactiplantibacillus_plantarum,Wheat germ,1,632,507116,611,0.12
+143,Lactiplantibacillus,Lactiplantibacillus_plantarum,Yoghurt,6,4133,507116,611,0.82
+144,Lactobacillus,Lactobacillus_acidophilus,Animal organs,1,1462,498774,54,0.29
+145,Lactobacillus,Lactobacillus_acidophilus,Bakery products,2,5102,498774,54,1.02
+146,Lactobacillus,Lactobacillus_acidophilus,Blood,19,39599,498774,54,7.94
+147,Lactobacillus,Lactobacillus_acidophilus,Cheese,6,10515,498774,54,2.11
+148,Lactobacillus,Lactobacillus_acidophilus,Commercial products,2,1652,498774,54,0.33
+149,Lactobacillus,Lactobacillus_acidophilus,Dairy products,9,13752,498774,54,2.76
+150,Lactobacillus,Lactobacillus_acidophilus,Dietary supplements,21,28943,498774,54,5.8
+151,Lactobacillus,Lactobacillus_acidophilus,Feces,54,93930,498774,54,18.83
+152,Lactobacillus,Lactobacillus_acidophilus,Fermented food,24,48211,498774,54,9.67
+153,Lactobacillus,Lactobacillus_acidophilus,Fermented milk,7,12168,498774,54,2.44
+154,Lactobacillus,Lactobacillus_acidophilus,Fodder,2,3009,498774,54,0.6
+155,Lactobacillus,Lactobacillus_acidophilus,Fruits,1,1027,498774,54,0.21
+156,Lactobacillus,Lactobacillus_acidophilus,Human,10,18729,498774,54,3.76
+157,Lactobacillus,Lactobacillus_acidophilus,Human gut,20,35027,498774,54,7.02
+158,Lactobacillus,Lactobacillus_acidophilus,Insects,1,1577,498774,54,0.32
+159,Lactobacillus,Lactobacillus_acidophilus,Medical device,2,4729,498774,54,0.95
+160,Lactobacillus,Lactobacillus_acidophilus,Medical procedure,4,7154,498774,54,1.43
+161,Lactobacillus,Lactobacillus_acidophilus,Milk,5,7990,498774,54,1.6
+162,Lactobacillus,Lactobacillus_acidophilus,Non-alcoholic drink,1,1381,498774,54,0.28
+163,Lactobacillus,Lactobacillus_acidophilus,Oral cavity,8,12386,498774,54,2.48
+164,Lactobacillus,Lactobacillus_acidophilus,Other food,1,1581,498774,54,0.32
+165,Lactobacillus,Lactobacillus_acidophilus,Plants,1,1324,498774,54,0.27
+166,Lactobacillus,Lactobacillus_acidophilus,Probiotics,8,16355,498774,54,3.28
+167,Lactobacillus,Lactobacillus_acidophilus,Starter culture,3,4266,498774,54,0.86
+168,Lactobacillus,Lactobacillus_acidophilus,Unknown,65,105177,498774,54,21.09
+169,Lactobacillus,Lactobacillus_acidophilus,Vagina,6,9980,498774,54,2.0
+170,Lactobacillus,Lactobacillus_acidophilus,Vegetables,3,3888,498774,54,0.78
+171,Lactobacillus,Lactobacillus_acidophilus,Yoghurt,5,7860,498774,54,1.58
+172,Lactobacillus,Lactobacillus_crispatus,Animal,1,2527,145262,83,1.74
+173,Lactobacillus,Lactobacillus_crispatus,Bakery products,1,1502,145262,83,1.03
+174,Lactobacillus,Lactobacillus_crispatus,Feces,8,15265,145262,83,10.51
+175,Lactobacillus,Lactobacillus_crispatus,Human,26,39210,145262,83,26.99
+176,Lactobacillus,Lactobacillus_crispatus,Human gut,11,17171,145262,83,11.82
+177,Lactobacillus,Lactobacillus_crispatus,Oral cavity,1,1908,145262,83,1.31
+178,Lactobacillus,Lactobacillus_crispatus,Unknown,17,31772,145262,83,21.87
+179,Lactobacillus,Lactobacillus_crispatus,Urine,3,6124,145262,83,4.22
+180,Lactobacillus,Lactobacillus_crispatus,Vagina,15,29783,145262,83,20.5
+181,Lactobacillus,Lactobacillus_delbrueckii,Alcoholic drink,4,7888,581503,67,1.36
+182,Lactobacillus,Lactobacillus_delbrueckii,Animal,3,10442,581503,67,1.8
+183,Lactobacillus,Lactobacillus_delbrueckii,Animal gut,1,7693,581503,67,1.32
+184,Lactobacillus,Lactobacillus_delbrueckii,Apple dumpster,1,969,581503,67,0.17
+185,Lactobacillus,Lactobacillus_delbrueckii,Bakery products,1,1502,581503,67,0.26
+186,Lactobacillus,Lactobacillus_delbrueckii,Blood,2,1929,581503,67,0.33
+187,Lactobacillus,Lactobacillus_delbrueckii,Cheese,33,39855,581503,67,6.85
+188,Lactobacillus,Lactobacillus_delbrueckii,Commercial products,1,857,581503,67,0.15
+189,Lactobacillus,Lactobacillus_delbrueckii,Congee,1,952,581503,67,0.16
+190,Lactobacillus,Lactobacillus_delbrueckii,Dairy products,8,12090,581503,67,2.08
+191,Lactobacillus,Lactobacillus_delbrueckii,Dietary supplements,8,7624,581503,67,1.31
+192,Lactobacillus,Lactobacillus_delbrueckii,Environment,6,14824,581503,67,2.55
+193,Lactobacillus,Lactobacillus_delbrueckii,Feces,38,55749,581503,67,9.59
+194,Lactobacillus,Lactobacillus_delbrueckii,Fermented food,18,22181,581503,67,3.81
+195,Lactobacillus,Lactobacillus_delbrueckii,Fermented milk,11,14108,581503,67,2.43
+196,Lactobacillus,Lactobacillus_delbrueckii,Fodder,2,2098,581503,67,0.36
+197,Lactobacillus,Lactobacillus_delbrueckii,Fruits,1,1015,581503,67,0.17
+198,Lactobacillus,Lactobacillus_delbrueckii,Human,28,41116,581503,67,7.07
+199,Lactobacillus,Lactobacillus_delbrueckii,Human gut,15,26528,581503,67,4.56
+200,Lactobacillus,Lactobacillus_delbrueckii,Industry,1,943,581503,67,0.16
+201,Lactobacillus,Lactobacillus_delbrueckii,Lab culture,1,853,581503,67,0.15
+202,Lactobacillus,Lactobacillus_delbrueckii,Meat & meat products,1,971,581503,67,0.17
+203,Lactobacillus,Lactobacillus_delbrueckii,Milk,14,19584,581503,67,3.37
+204,Lactobacillus,Lactobacillus_delbrueckii,Oral cavity,3,4204,581503,67,0.72
+205,Lactobacillus,Lactobacillus_delbrueckii,Other food,3,3249,581503,67,0.56
+206,Lactobacillus,Lactobacillus_delbrueckii,Plants,3,3044,581503,67,0.52
+207,Lactobacillus,Lactobacillus_delbrueckii,Probiotics,3,4176,581503,67,0.72
+208,Lactobacillus,Lactobacillus_delbrueckii,Starter culture,9,19125,581503,67,3.29
+209,Lactobacillus,Lactobacillus_delbrueckii,Unknown,120,215627,581503,67,37.08
+210,Lactobacillus,Lactobacillus_delbrueckii,Urine,3,6124,581503,67,1.05
+211,Lactobacillus,Lactobacillus_delbrueckii,Vagina,16,30935,581503,67,5.32
+212,Lactobacillus,Lactobacillus_delbrueckii,Yoghurt,2,3248,581503,67,0.56
+213,Lactobacillus,Lactobacillus_gasseri,Animal organs,1,1462,532995,31,0.27
+214,Lactobacillus,Lactobacillus_gasseri,Bakery products,2,5102,532995,31,0.96
+215,Lactobacillus,Lactobacillus_gasseri,Blood,19,39599,532995,31,7.43
+216,Lactobacillus,Lactobacillus_gasseri,Cheese,6,10515,532995,31,1.97
+217,Lactobacillus,Lactobacillus_gasseri,Commercial products,2,1652,532995,31,0.31
+218,Lactobacillus,Lactobacillus_gasseri,Dairy products,9,13752,532995,31,2.58
+219,Lactobacillus,Lactobacillus_gasseri,Dietary supplements,21,28943,532995,31,5.43
+220,Lactobacillus,Lactobacillus_gasseri,Feces,60,99041,532995,31,18.58
+221,Lactobacillus,Lactobacillus_gasseri,Fermented food,24,48211,532995,31,9.05
+222,Lactobacillus,Lactobacillus_gasseri,Fermented milk,7,12168,532995,31,2.28
+223,Lactobacillus,Lactobacillus_gasseri,Fodder,2,3009,532995,31,0.56
+224,Lactobacillus,Lactobacillus_gasseri,Fruits,1,1027,532995,31,0.19
+225,Lactobacillus,Lactobacillus_gasseri,Human,10,18729,532995,31,3.51
+226,Lactobacillus,Lactobacillus_gasseri,Human gut,21,35401,532995,31,6.64
+227,Lactobacillus,Lactobacillus_gasseri,Insects,1,1577,532995,31,0.3
+228,Lactobacillus,Lactobacillus_gasseri,Medical device,3,5685,532995,31,1.07
+229,Lactobacillus,Lactobacillus_gasseri,Medical procedure,4,7154,532995,31,1.34
+230,Lactobacillus,Lactobacillus_gasseri,Milk,7,10026,532995,31,1.88
+231,Lactobacillus,Lactobacillus_gasseri,Non-alcoholic drink,1,1381,532995,31,0.26
+232,Lactobacillus,Lactobacillus_gasseri,Oral cavity,8,12386,532995,31,2.32
+233,Lactobacillus,Lactobacillus_gasseri,Other food,1,1581,532995,31,0.3
+234,Lactobacillus,Lactobacillus_gasseri,Plants,1,1324,532995,31,0.25
+235,Lactobacillus,Lactobacillus_gasseri,Probiotics,8,16355,532995,31,3.07
+236,Lactobacillus,Lactobacillus_gasseri,Starter culture,3,4266,532995,31,0.8
+237,Lactobacillus,Lactobacillus_gasseri,Unknown,81,122115,532995,31,22.91
+238,Lactobacillus,Lactobacillus_gasseri,Urine,3,4070,532995,31,0.76
+239,Lactobacillus,Lactobacillus_gasseri,Vagina,8,14716,532995,31,2.76
+240,Lactobacillus,Lactobacillus_gasseri,Vegetables,3,3888,532995,31,0.73
+241,Lactobacillus,Lactobacillus_gasseri,Yoghurt,5,7860,532995,31,1.47
+242,Lactobacillus,Lactobacillus_helveticus,Alcoholic drink,2,7066,66009,31,10.7
+243,Lactobacillus,Lactobacillus_helveticus,Bakery products,5,14890,66009,31,22.56
+244,Lactobacillus,Lactobacillus_helveticus,Cheese,1,1197,66009,31,1.81
+245,Lactobacillus,Lactobacillus_helveticus,Dairy products,1,1500,66009,31,2.27
+246,Lactobacillus,Lactobacillus_helveticus,Feces,3,9690,66009,31,14.68
+247,Lactobacillus,Lactobacillus_helveticus,Fermented food,1,3275,66009,31,4.96
+248,Lactobacillus,Lactobacillus_helveticus,Fermented milk,2,3574,66009,31,5.41
+249,Lactobacillus,Lactobacillus_helveticus,Human gut,3,3623,66009,31,5.49
+250,Lactobacillus,Lactobacillus_helveticus,Probiotics,1,2718,66009,31,4.12
+251,Lactobacillus,Lactobacillus_helveticus,Starter culture,1,1334,66009,31,2.02
+252,Lactobacillus,Lactobacillus_helveticus,Unknown,10,15714,66009,31,23.81
+253,Lactobacillus,Lactobacillus_helveticus,Yoghurt,1,1428,66009,31,2.16
+254,Lactobacillus,Lactobacillus_iners,Alcoholic drink,2,3369,1096129,30,0.31
+255,Lactobacillus,Lactobacillus_iners,Animal,1,1482,1096129,30,0.14
+256,Lactobacillus,Lactobacillus_iners,Animal gut,8,26491,1096129,30,2.42
+257,Lactobacillus,Lactobacillus_iners,Animal organs,1,1462,1096129,30,0.13
+258,Lactobacillus,Lactobacillus_iners,Apple dumpster,3,6117,1096129,30,0.56
+259,Lactobacillus,Lactobacillus_iners,Bakery products,9,21730,1096129,30,1.98
+260,Lactobacillus,Lactobacillus_iners,Beer container,1,1779,1096129,30,0.16
+261,Lactobacillus,Lactobacillus_iners,Blood,19,39599,1096129,30,3.61
+262,Lactobacillus,Lactobacillus_iners,Cheese,9,16044,1096129,30,1.46
+263,Lactobacillus,Lactobacillus_iners,Chemical,1,2126,1096129,30,0.19
+264,Lactobacillus,Lactobacillus_iners,Commercial products,2,1652,1096129,30,0.15
+265,Lactobacillus,Lactobacillus_iners,Dairy products,11,16805,1096129,30,1.53
+266,Lactobacillus,Lactobacillus_iners,Dietary supplements,25,41240,1096129,30,3.76
+267,Lactobacillus,Lactobacillus_iners,Eggs,2,3488,1096129,30,0.32
+268,Lactobacillus,Lactobacillus_iners,Feces,74,135396,1096129,30,12.35
+269,Lactobacillus,Lactobacillus_iners,Fermented food,32,62665,1096129,30,5.72
+270,Lactobacillus,Lactobacillus_iners,Fermented milk,7,12168,1096129,30,1.11
+271,Lactobacillus,Lactobacillus_iners,Fish,2,3847,1096129,30,0.35
+272,Lactobacillus,Lactobacillus_iners,Fodder,5,9677,1096129,30,0.88
+273,Lactobacillus,Lactobacillus_iners,Fruits,1,1027,1096129,30,0.09
+274,Lactobacillus,Lactobacillus_iners,Human,18,56480,1096129,30,5.15
+275,Lactobacillus,Lactobacillus_iners,Human gut,36,79845,1096129,30,7.28
+276,Lactobacillus,Lactobacillus_iners,Industry,5,8568,1096129,30,0.78
+277,Lactobacillus,Lactobacillus_iners,Insect gut,1,1775,1096129,30,0.16
+278,Lactobacillus,Lactobacillus_iners,Insects,2,3350,1096129,30,0.31
+279,Lactobacillus,Lactobacillus_iners,Kitchen E,2,3489,1096129,30,0.32
+280,Lactobacillus,Lactobacillus_iners,Meat & meat products,12,18257,1096129,30,1.67
+281,Lactobacillus,Lactobacillus_iners,Medical device,6,10157,1096129,30,0.93
+282,Lactobacillus,Lactobacillus_iners,Medical procedure,4,7154,1096129,30,0.65
+283,Lactobacillus,Lactobacillus_iners,Milk,9,16401,1096129,30,1.5
+284,Lactobacillus,Lactobacillus_iners,Non-alcoholic drink,1,1381,1096129,30,0.13
+285,Lactobacillus,Lactobacillus_iners,Oral cavity,8,12386,1096129,30,1.13
+286,Lactobacillus,Lactobacillus_iners,Other food,4,6209,1096129,30,0.57
+287,Lactobacillus,Lactobacillus_iners,Piglets,1,3648,1096129,30,0.33
+288,Lactobacillus,Lactobacillus_iners,Plants,1,1324,1096129,30,0.12
+289,Lactobacillus,Lactobacillus_iners,Probiotics,9,17871,1096129,30,1.63
+290,Lactobacillus,Lactobacillus_iners,Starter culture,4,5995,1096129,30,0.55
+291,Lactobacillus,Lactobacillus_iners,Unknown,175,367101,1096129,30,33.49
+292,Lactobacillus,Lactobacillus_iners,Urine,4,5157,1096129,30,0.47
+293,Lactobacillus,Lactobacillus_iners,Vagina,18,31467,1096129,30,2.87
+294,Lactobacillus,Lactobacillus_iners,Vegetables,15,22090,1096129,30,2.02
+295,Lactobacillus,Lactobacillus_iners,Yoghurt,5,7860,1096129,30,0.72
+296,Lactobacillus,Lactobacillus_johnsonii,Alcoholic drink,5,11283,782112,47,1.44
+297,Lactobacillus,Lactobacillus_johnsonii,Animal,6,19988,782112,47,2.56
+298,Lactobacillus,Lactobacillus_johnsonii,Animal gut,3,12324,782112,47,1.58
+299,Lactobacillus,Lactobacillus_johnsonii,Apple dumpster,1,969,782112,47,0.12
+300,Lactobacillus,Lactobacillus_johnsonii,Bakery products,2,2335,782112,47,0.3
+301,Lactobacillus,Lactobacillus_johnsonii,Blood,3,5689,782112,47,0.73
+302,Lactobacillus,Lactobacillus_johnsonii,Cheese,43,51951,782112,47,6.64
+303,Lactobacillus,Lactobacillus_johnsonii,Commercial products,1,857,782112,47,0.11
+304,Lactobacillus,Lactobacillus_johnsonii,Congee,1,952,782112,47,0.12
+305,Lactobacillus,Lactobacillus_johnsonii,Dairy products,12,18575,782112,47,2.37
+306,Lactobacillus,Lactobacillus_johnsonii,Dietary supplements,8,7624,782112,47,0.97
+307,Lactobacillus,Lactobacillus_johnsonii,Environment,6,14824,782112,47,1.9
+308,Lactobacillus,Lactobacillus_johnsonii,Feces,49,81273,782112,47,10.39
+309,Lactobacillus,Lactobacillus_johnsonii,Fermented food,30,33585,782112,47,4.29
+310,Lactobacillus,Lactobacillus_johnsonii,Fermented milk,12,14916,782112,47,1.91
+311,Lactobacillus,Lactobacillus_johnsonii,Fish gut,1,838,782112,47,0.11
+312,Lactobacillus,Lactobacillus_johnsonii,Fodder,2,2098,782112,47,0.27
+313,Lactobacillus,Lactobacillus_johnsonii,Fruits,1,1015,782112,47,0.13
+314,Lactobacillus,Lactobacillus_johnsonii,Human,41,82300,782112,47,10.52
+315,Lactobacillus,Lactobacillus_johnsonii,Human gut,20,40568,782112,47,5.19
+316,Lactobacillus,Lactobacillus_johnsonii,Industry,1,943,782112,47,0.12
+317,Lactobacillus,Lactobacillus_johnsonii,Kitchen E,1,957,782112,47,0.12
+318,Lactobacillus,Lactobacillus_johnsonii,Lab culture,1,853,782112,47,0.11
+319,Lactobacillus,Lactobacillus_johnsonii,Meat & meat products,5,4650,782112,47,0.59
+320,Lactobacillus,Lactobacillus_johnsonii,Milk,16,21473,782112,47,2.75
+321,Lactobacillus,Lactobacillus_johnsonii,Milk products,1,1094,782112,47,0.14
+322,Lactobacillus,Lactobacillus_johnsonii,Oral cavity,5,8190,782112,47,1.05
+323,Lactobacillus,Lactobacillus_johnsonii,Other food,6,5857,782112,47,0.75
+324,Lactobacillus,Lactobacillus_johnsonii,Plants,3,3044,782112,47,0.39
+325,Lactobacillus,Lactobacillus_johnsonii,Probiotics,3,4176,782112,47,0.53
+326,Lactobacillus,Lactobacillus_johnsonii,Starter culture,9,19125,782112,47,2.45
+327,Lactobacillus,Lactobacillus_johnsonii,Unknown,150,263652,782112,47,33.71
+328,Lactobacillus,Lactobacillus_johnsonii,Urine,3,6124,782112,47,0.78
+329,Lactobacillus,Lactobacillus_johnsonii,Vagina,17,34762,782112,47,4.44
+330,Lactobacillus,Lactobacillus_johnsonii,Yoghurt,2,3248,782112,47,0.42
+331,Lactobacillus,Lactobacillus_paragasseri,Feces,11,16213,55145,36,29.4
+332,Lactobacillus,Lactobacillus_paragasseri,Human,2,3317,55145,36,6.02
+333,Lactobacillus,Lactobacillus_paragasseri,Human gut,3,4321,55145,36,7.84
+334,Lactobacillus,Lactobacillus_paragasseri,Medical device,1,1523,55145,36,2.76
+335,Lactobacillus,Lactobacillus_paragasseri,Milk,2,2541,55145,36,4.61
+336,Lactobacillus,Lactobacillus_paragasseri,Unknown,14,21585,55145,36,39.14
+337,Lactobacillus,Lactobacillus_paragasseri,Urine,1,1723,55145,36,3.12
+338,Lactobacillus,Lactobacillus_paragasseri,Vagina,2,3922,55145,36,7.11
+339,Latilactobacillus,Latilactobacillus_sakei,Alcoholic drink,47,38580,587892,50,6.56
+340,Latilactobacillus,Latilactobacillus_sakei,Animals,1,1077,587892,50,0.18
+341,Latilactobacillus,Latilactobacillus_sakei,Cereal,1,1096,587892,50,0.19
+342,Latilactobacillus,Latilactobacillus_sakei,Cheese,118,156754,587892,50,26.66
+343,Latilactobacillus,Latilactobacillus_sakei,Cheese containers,1,2034,587892,50,0.35
+344,Latilactobacillus,Latilactobacillus_sakei,Chicken,1,981,587892,50,0.17
+345,Latilactobacillus,Latilactobacillus_sakei,Corn slurry,1,1045,587892,50,0.18
+346,Latilactobacillus,Latilactobacillus_sakei,Dairy products,2,1964,587892,50,0.33
+347,Latilactobacillus,Latilactobacillus_sakei,Dietary supplements,1,2183,587892,50,0.37
+348,Latilactobacillus,Latilactobacillus_sakei,Environmental material,1,1085,587892,50,0.18
+349,Latilactobacillus,Latilactobacillus_sakei,Feces,56,90007,587892,50,15.31
+350,Latilactobacillus,Latilactobacillus_sakei,Fermented food,34,46556,587892,50,7.92
+351,Latilactobacillus,Latilactobacillus_sakei,Fermented milk,1,1257,587892,50,0.21
+352,Latilactobacillus,Latilactobacillus_sakei,Fish,2,2130,587892,50,0.36
+353,Latilactobacillus,Latilactobacillus_sakei,Fodder,2,2862,587892,50,0.49
+354,Latilactobacillus,Latilactobacillus_sakei,Fruit juice,1,828,587892,50,0.14
+355,Latilactobacillus,Latilactobacillus_sakei,Honey,1,1041,587892,50,0.18
+356,Latilactobacillus,Latilactobacillus_sakei,Human,6,10171,587892,50,1.73
+357,Latilactobacillus,Latilactobacillus_sakei,Human gut,6,10319,587892,50,1.76
+358,Latilactobacillus,Latilactobacillus_sakei,Lab culture,1,1791,587892,50,0.3
+359,Latilactobacillus,Latilactobacillus_sakei,Meat & meat products,14,30837,587892,50,5.25
+360,Latilactobacillus,Latilactobacillus_sakei,Medical device,1,1525,587892,50,0.26
+361,Latilactobacillus,Latilactobacillus_sakei,Milk,8,9576,587892,50,1.63
+362,Latilactobacillus,Latilactobacillus_sakei,Other food,10,12547,587892,50,2.13
+363,Latilactobacillus,Latilactobacillus_sakei,Seeds,2,2128,587892,50,0.36
+364,Latilactobacillus,Latilactobacillus_sakei,Soil,4,5711,587892,50,0.97
+365,Latilactobacillus,Latilactobacillus_sakei,Starter culture,1,1445,587892,50,0.25
+366,Latilactobacillus,Latilactobacillus_sakei,Tea,1,2409,587892,50,0.41
+367,Latilactobacillus,Latilactobacillus_sakei,Unknown,98,140739,587892,50,23.94
+368,Latilactobacillus,Latilactobacillus_sakei,Urine,1,1723,587892,50,0.29
+369,Latilactobacillus,Latilactobacillus_sakei,Vagina,2,3924,587892,50,0.67
+370,Latilactobacillus,Latilactobacillus_sakei,Whey,1,1567,587892,50,0.27
+371,Lentilactobacillus,Lentilactobacillus_parabuchneri,Alcoholic drink,48,39051,657462,30,5.94
+372,Lentilactobacillus,Lentilactobacillus_parabuchneri,Animals,1,1077,657462,30,0.16
+373,Lentilactobacillus,Lentilactobacillus_parabuchneri,Cereal,1,1096,657462,30,0.17
+374,Lentilactobacillus,Lentilactobacillus_parabuchneri,Cheese,138,200690,657462,30,30.52
+375,Lentilactobacillus,Lentilactobacillus_parabuchneri,Cheese containers,1,2034,657462,30,0.31
+376,Lentilactobacillus,Lentilactobacillus_parabuchneri,Chicken,1,981,657462,30,0.15
+377,Lentilactobacillus,Lentilactobacillus_parabuchneri,Corn slurry,1,1045,657462,30,0.16
+378,Lentilactobacillus,Lentilactobacillus_parabuchneri,Dairy products,2,1964,657462,30,0.3
+379,Lentilactobacillus,Lentilactobacillus_parabuchneri,Dietary supplements,1,2183,657462,30,0.33
+380,Lentilactobacillus,Lentilactobacillus_parabuchneri,Environmental material,1,1085,657462,30,0.17
+381,Lentilactobacillus,Lentilactobacillus_parabuchneri,Feces,56,90007,657462,30,13.69
+382,Lentilactobacillus,Lentilactobacillus_parabuchneri,Fermented food,34,46556,657462,30,7.08
+383,Lentilactobacillus,Lentilactobacillus_parabuchneri,Fermented milk,1,1257,657462,30,0.19
+384,Lentilactobacillus,Lentilactobacillus_parabuchneri,Fish,2,2130,657462,30,0.32
+385,Lentilactobacillus,Lentilactobacillus_parabuchneri,Fodder,2,2862,657462,30,0.44
+386,Lentilactobacillus,Lentilactobacillus_parabuchneri,Fruit juice,1,828,657462,30,0.13
+387,Lentilactobacillus,Lentilactobacillus_parabuchneri,Honey,1,1041,657462,30,0.16
+388,Lentilactobacillus,Lentilactobacillus_parabuchneri,Human,6,10171,657462,30,1.55
+389,Lentilactobacillus,Lentilactobacillus_parabuchneri,Human gut,6,10319,657462,30,1.57
+390,Lentilactobacillus,Lentilactobacillus_parabuchneri,Lab culture,1,1791,657462,30,0.27
+391,Lentilactobacillus,Lentilactobacillus_parabuchneri,Meat & meat products,14,30837,657462,30,4.69
+392,Lentilactobacillus,Lentilactobacillus_parabuchneri,Medical device,1,1525,657462,30,0.23
+393,Lentilactobacillus,Lentilactobacillus_parabuchneri,Milk,12,33017,657462,30,5.02
+394,Lentilactobacillus,Lentilactobacillus_parabuchneri,Oral cavity,1,257,657462,30,0.04
+395,Lentilactobacillus,Lentilactobacillus_parabuchneri,Other food,10,12547,657462,30,1.91
+396,Lentilactobacillus,Lentilactobacillus_parabuchneri,Seeds,2,2128,657462,30,0.32
+397,Lentilactobacillus,Lentilactobacillus_parabuchneri,Soil,4,5711,657462,30,0.87
+398,Lentilactobacillus,Lentilactobacillus_parabuchneri,Starter culture,1,1445,657462,30,0.22
+399,Lentilactobacillus,Lentilactobacillus_parabuchneri,Tea,1,2409,657462,30,0.37
+400,Lentilactobacillus,Lentilactobacillus_parabuchneri,Unknown,102,142204,657462,30,21.63
+401,Lentilactobacillus,Lentilactobacillus_parabuchneri,Urine,1,1723,657462,30,0.26
+402,Lentilactobacillus,Lentilactobacillus_parabuchneri,Vagina,2,3924,657462,30,0.6
+403,Lentilactobacillus,Lentilactobacillus_parabuchneri,Whey,1,1567,657462,30,0.24
+404,Leuconostoc,Leuconostoc_inhae,Alcoholic drink,2,3369,1053384,36,0.32
+405,Leuconostoc,Leuconostoc_inhae,Animal,1,1482,1053384,36,0.14
+406,Leuconostoc,Leuconostoc_inhae,Animal gut,8,26491,1053384,36,2.51
+407,Leuconostoc,Leuconostoc_inhae,Animal organs,1,1462,1053384,36,0.14
+408,Leuconostoc,Leuconostoc_inhae,Apple dumpster,3,6117,1053384,36,0.58
+409,Leuconostoc,Leuconostoc_inhae,Bakery products,9,21730,1053384,36,2.06
+410,Leuconostoc,Leuconostoc_inhae,Beer container,1,1779,1053384,36,0.17
+411,Leuconostoc,Leuconostoc_inhae,Blood,19,39599,1053384,36,3.76
+412,Leuconostoc,Leuconostoc_inhae,Cheese,9,16044,1053384,36,1.52
+413,Leuconostoc,Leuconostoc_inhae,Chemical,1,2126,1053384,36,0.2
+414,Leuconostoc,Leuconostoc_inhae,Commercial products,2,1652,1053384,36,0.16
+415,Leuconostoc,Leuconostoc_inhae,Dairy products,11,16805,1053384,36,1.6
+416,Leuconostoc,Leuconostoc_inhae,Dietary supplements,25,41240,1053384,36,3.92
+417,Leuconostoc,Leuconostoc_inhae,Eggs,2,3488,1053384,36,0.33
+418,Leuconostoc,Leuconostoc_inhae,Feces,74,135396,1053384,36,12.85
+419,Leuconostoc,Leuconostoc_inhae,Fermented food,32,62665,1053384,36,5.95
+420,Leuconostoc,Leuconostoc_inhae,Fermented milk,7,12168,1053384,36,1.16
+421,Leuconostoc,Leuconostoc_inhae,Fish,2,3847,1053384,36,0.37
+422,Leuconostoc,Leuconostoc_inhae,Fodder,5,9677,1053384,36,0.92
+423,Leuconostoc,Leuconostoc_inhae,Fruits,1,1027,1053384,36,0.1
+424,Leuconostoc,Leuconostoc_inhae,Human,18,56480,1053384,36,5.36
+425,Leuconostoc,Leuconostoc_inhae,Human gut,35,78633,1053384,36,7.46
+426,Leuconostoc,Leuconostoc_inhae,Industry,5,8568,1053384,36,0.81
+427,Leuconostoc,Leuconostoc_inhae,Insect gut,1,1775,1053384,36,0.17
+428,Leuconostoc,Leuconostoc_inhae,Insects,2,3350,1053384,36,0.32
+429,Leuconostoc,Leuconostoc_inhae,Kitchen E,2,3489,1053384,36,0.33
+430,Leuconostoc,Leuconostoc_inhae,Meat & meat products,12,18257,1053384,36,1.73
+431,Leuconostoc,Leuconostoc_inhae,Medical device,3,5685,1053384,36,0.54
+432,Leuconostoc,Leuconostoc_inhae,Medical procedure,4,7154,1053384,36,0.68
+433,Leuconostoc,Leuconostoc_inhae,Milk,9,16401,1053384,36,1.56
+434,Leuconostoc,Leuconostoc_inhae,Non-alcoholic drink,1,1381,1053384,36,0.13
+435,Leuconostoc,Leuconostoc_inhae,Oral cavity,8,12386,1053384,36,1.18
+436,Leuconostoc,Leuconostoc_inhae,Other food,4,6209,1053384,36,0.59
+437,Leuconostoc,Leuconostoc_inhae,Piglets,1,3648,1053384,36,0.35
+438,Leuconostoc,Leuconostoc_inhae,Plants,1,1324,1053384,36,0.13
+439,Leuconostoc,Leuconostoc_inhae,Probiotics,9,17871,1053384,36,1.7
+440,Leuconostoc,Leuconostoc_inhae,Starter culture,4,5995,1053384,36,0.57
+441,Leuconostoc,Leuconostoc_inhae,Unknown,160,347878,1053384,36,33.02
+442,Leuconostoc,Leuconostoc_inhae,Urine,3,4070,1053384,36,0.39
+443,Leuconostoc,Leuconostoc_inhae,Vagina,8,14716,1053384,36,1.4
+444,Leuconostoc,Leuconostoc_inhae,Vegetables,15,22090,1053384,36,2.1
+445,Leuconostoc,Leuconostoc_inhae,Yoghurt,5,7860,1053384,36,0.75
+446,Leuconostoc,Leuconostoc_mesenteroides,Alcoholic drink,5,11283,647345,62,1.74
+447,Leuconostoc,Leuconostoc_mesenteroides,Animal,3,10442,647345,62,1.61
+448,Leuconostoc,Leuconostoc_mesenteroides,Animal gut,1,7693,647345,62,1.19
+449,Leuconostoc,Leuconostoc_mesenteroides,Apple dumpster,1,969,647345,62,0.15
+450,Leuconostoc,Leuconostoc_mesenteroides,Bakery products,2,2335,647345,62,0.36
+451,Leuconostoc,Leuconostoc_mesenteroides,Blood,2,1929,647345,62,0.3
+452,Leuconostoc,Leuconostoc_mesenteroides,Cheese,43,51951,647345,62,8.03
+453,Leuconostoc,Leuconostoc_mesenteroides,Commercial products,1,857,647345,62,0.13
+454,Leuconostoc,Leuconostoc_mesenteroides,Congee,1,952,647345,62,0.15
+455,Leuconostoc,Leuconostoc_mesenteroides,Dairy products,11,15051,647345,62,2.33
+456,Leuconostoc,Leuconostoc_mesenteroides,Dietary supplements,8,7624,647345,62,1.18
+457,Leuconostoc,Leuconostoc_mesenteroides,Environment,6,14824,647345,62,2.29
+458,Leuconostoc,Leuconostoc_mesenteroides,Feces,39,56614,647345,62,8.75
+459,Leuconostoc,Leuconostoc_mesenteroides,Fermented food,30,33585,647345,62,5.19
+460,Leuconostoc,Leuconostoc_mesenteroides,Fermented milk,12,14916,647345,62,2.3
+461,Leuconostoc,Leuconostoc_mesenteroides,Fish gut,1,838,647345,62,0.13
+462,Leuconostoc,Leuconostoc_mesenteroides,Fodder,2,2098,647345,62,0.32
+463,Leuconostoc,Leuconostoc_mesenteroides,Fruits,1,1015,647345,62,0.16
+464,Leuconostoc,Leuconostoc_mesenteroides,Human,28,41116,647345,62,6.35
+465,Leuconostoc,Leuconostoc_mesenteroides,Human gut,16,29003,647345,62,4.48
+466,Leuconostoc,Leuconostoc_mesenteroides,Industry,1,943,647345,62,0.15
+467,Leuconostoc,Leuconostoc_mesenteroides,Kitchen E,1,957,647345,62,0.15
+468,Leuconostoc,Leuconostoc_mesenteroides,Lab culture,1,853,647345,62,0.13
+469,Leuconostoc,Leuconostoc_mesenteroides,Meat & meat products,5,4650,647345,62,0.72
+470,Leuconostoc,Leuconostoc_mesenteroides,Milk,16,21473,647345,62,3.32
+471,Leuconostoc,Leuconostoc_mesenteroides,Milk products,1,1094,647345,62,0.17
+472,Leuconostoc,Leuconostoc_mesenteroides,Oral cavity,3,4204,647345,62,0.65
+473,Leuconostoc,Leuconostoc_mesenteroides,Other food,6,5857,647345,62,0.9
+474,Leuconostoc,Leuconostoc_mesenteroides,Plants,3,3044,647345,62,0.47
+475,Leuconostoc,Leuconostoc_mesenteroides,Probiotics,3,4176,647345,62,0.65
+476,Leuconostoc,Leuconostoc_mesenteroides,Starter culture,9,19125,647345,62,2.95
+477,Leuconostoc,Leuconostoc_mesenteroides,Unknown,140,235567,647345,62,36.39
+478,Leuconostoc,Leuconostoc_mesenteroides,Urine,3,6124,647345,62,0.95
+479,Leuconostoc,Leuconostoc_mesenteroides,Vagina,16,30935,647345,62,4.78
+480,Leuconostoc,Leuconostoc_mesenteroides,Yoghurt,2,3248,647345,62,0.5
+481,Levilactobacillus,Levilactobacillus_brevis,Alcoholic drink,2,3369,654537,67,0.51
+482,Levilactobacillus,Levilactobacillus_brevis,Animal,1,1482,654537,67,0.23
+483,Levilactobacillus,Levilactobacillus_brevis,Animal organs,1,1462,654537,67,0.22
+484,Levilactobacillus,Levilactobacillus_brevis,Apple dumpster,3,6117,654537,67,0.93
+485,Levilactobacillus,Levilactobacillus_brevis,Bakery products,7,14856,654537,67,2.27
+486,Levilactobacillus,Levilactobacillus_brevis,Beer container,1,1779,654537,67,0.27
+487,Levilactobacillus,Levilactobacillus_brevis,Blood,19,39599,654537,67,6.05
+488,Levilactobacillus,Levilactobacillus_brevis,Cheese,9,16044,654537,67,2.45
+489,Levilactobacillus,Levilactobacillus_brevis,Commercial products,2,1652,654537,67,0.25
+490,Levilactobacillus,Levilactobacillus_brevis,Dairy products,11,16805,654537,67,2.57
+491,Levilactobacillus,Levilactobacillus_brevis,Dietary supplements,22,30459,654537,67,4.65
+492,Levilactobacillus,Levilactobacillus_brevis,Feces,67,111377,654537,67,17.02
+493,Levilactobacillus,Levilactobacillus_brevis,Fermented food,30,58002,654537,67,8.86
+494,Levilactobacillus,Levilactobacillus_brevis,Fermented milk,7,12168,654537,67,1.86
+495,Levilactobacillus,Levilactobacillus_brevis,Fodder,5,9677,654537,67,1.48
+496,Levilactobacillus,Levilactobacillus_brevis,Fruits,1,1027,654537,67,0.16
+497,Levilactobacillus,Levilactobacillus_brevis,Human,10,18729,654537,67,2.86
+498,Levilactobacillus,Levilactobacillus_brevis,Human gut,24,40347,654537,67,6.16
+499,Levilactobacillus,Levilactobacillus_brevis,Industry,2,4370,654537,67,0.67
+500,Levilactobacillus,Levilactobacillus_brevis,Insect gut,1,1775,654537,67,0.27
+501,Levilactobacillus,Levilactobacillus_brevis,Insects,2,3350,654537,67,0.51
+502,Levilactobacillus,Levilactobacillus_brevis,Kitchen E,2,3489,654537,67,0.53
+503,Levilactobacillus,Levilactobacillus_brevis,Medical device,3,5685,654537,67,0.87
+504,Levilactobacillus,Levilactobacillus_brevis,Medical procedure,4,7154,654537,67,1.09
+505,Levilactobacillus,Levilactobacillus_brevis,Milk,8,12574,654537,67,1.92
+506,Levilactobacillus,Levilactobacillus_brevis,Non-alcoholic drink,1,1381,654537,67,0.21
+507,Levilactobacillus,Levilactobacillus_brevis,Oral cavity,8,12386,654537,67,1.89
+508,Levilactobacillus,Levilactobacillus_brevis,Other food,4,6209,654537,67,0.95
+509,Levilactobacillus,Levilactobacillus_brevis,Plants,1,1324,654537,67,0.2
+510,Levilactobacillus,Levilactobacillus_brevis,Probiotics,9,17871,654537,67,2.73
+511,Levilactobacillus,Levilactobacillus_brevis,Starter culture,4,5995,654537,67,0.92
+512,Levilactobacillus,Levilactobacillus_brevis,Unknown,98,153614,654537,67,23.47
+513,Levilactobacillus,Levilactobacillus_brevis,Urine,3,4070,654537,67,0.62
+514,Levilactobacillus,Levilactobacillus_brevis,Vagina,8,14716,654537,67,2.25
+515,Levilactobacillus,Levilactobacillus_brevis,Vegetables,4,5763,654537,67,0.88
+516,Levilactobacillus,Levilactobacillus_brevis,Yoghurt,5,7860,654537,67,1.2
+517,Ligilactobacillus,Ligilactobacillus_ruminis,Animal,2,9449,246759,39,3.83
+518,Ligilactobacillus,Ligilactobacillus_ruminis,Animal gut,1,7693,246759,39,3.12
+519,Ligilactobacillus,Ligilactobacillus_ruminis,Bakery products,1,1502,246759,39,0.61
+520,Ligilactobacillus,Ligilactobacillus_ruminis,Feces,10,26276,246759,39,10.65
+521,Ligilactobacillus,Ligilactobacillus_ruminis,Human,26,39210,246759,39,15.89
+522,Ligilactobacillus,Ligilactobacillus_ruminis,Human gut,13,23291,246759,39,9.44
+523,Ligilactobacillus,Ligilactobacillus_ruminis,Oral cavity,1,1908,246759,39,0.77
+524,Ligilactobacillus,Ligilactobacillus_ruminis,Unknown,50,101523,246759,39,41.14
+525,Ligilactobacillus,Ligilactobacillus_ruminis,Urine,3,6124,246759,39,2.48
+526,Ligilactobacillus,Ligilactobacillus_ruminis,Vagina,15,29783,246759,39,12.07
+527,Ligilactobacillus,Ligilactobacillus_salivarius,Alcoholic drink,5,11283,1187837,150,0.95
+528,Ligilactobacillus,Ligilactobacillus_salivarius,Animal,7,21863,1187837,150,1.84
+529,Ligilactobacillus,Ligilactobacillus_salivarius,Animal gut,6,19154,1187837,150,1.61
+530,Ligilactobacillus,Ligilactobacillus_salivarius,Apple dumpster,1,969,1187837,150,0.08
+531,Ligilactobacillus,Ligilactobacillus_salivarius,Bakery products,2,2335,1187837,150,0.2
+532,Ligilactobacillus,Ligilactobacillus_salivarius,Biofilm,5,13534,1187837,150,1.14
+533,Ligilactobacillus,Ligilactobacillus_salivarius,Blood,3,5689,1187837,150,0.48
+534,Ligilactobacillus,Ligilactobacillus_salivarius,Cheese,43,51951,1187837,150,4.37
+535,Ligilactobacillus,Ligilactobacillus_salivarius,Commercial products,1,857,1187837,150,0.07
+536,Ligilactobacillus,Ligilactobacillus_salivarius,Congee,1,952,1187837,150,0.08
+537,Ligilactobacillus,Ligilactobacillus_salivarius,Dairy products,12,18575,1187837,150,1.56
+538,Ligilactobacillus,Ligilactobacillus_salivarius,Dietary supplements,12,14350,1187837,150,1.21
+539,Ligilactobacillus,Ligilactobacillus_salivarius,Environment,6,14824,1187837,150,1.25
+540,Ligilactobacillus,Ligilactobacillus_salivarius,Feces,63,104864,1187837,150,8.83
+541,Ligilactobacillus,Ligilactobacillus_salivarius,Fermented food,65,130718,1187837,150,11.0
+542,Ligilactobacillus,Ligilactobacillus_salivarius,Fermented milk,12,14916,1187837,150,1.26
+543,Ligilactobacillus,Ligilactobacillus_salivarius,Fish gut,1,838,1187837,150,0.07
+544,Ligilactobacillus,Ligilactobacillus_salivarius,Fodder,3,4512,1187837,150,0.38
+545,Ligilactobacillus,Ligilactobacillus_salivarius,Fruits,1,1015,1187837,150,0.09
+546,Ligilactobacillus,Ligilactobacillus_salivarius,Human,44,89474,1187837,150,7.53
+547,Ligilactobacillus,Ligilactobacillus_salivarius,Human gut,27,57447,1187837,150,4.84
+548,Ligilactobacillus,Ligilactobacillus_salivarius,Industry,1,943,1187837,150,0.08
+549,Ligilactobacillus,Ligilactobacillus_salivarius,Kitchen E,1,957,1187837,150,0.08
+550,Ligilactobacillus,Ligilactobacillus_salivarius,Lab culture,1,853,1187837,150,0.07
+551,Ligilactobacillus,Ligilactobacillus_salivarius,Meat & meat products,7,8174,1187837,150,0.69
+552,Ligilactobacillus,Ligilactobacillus_salivarius,Milk,16,21473,1187837,150,1.81
+553,Ligilactobacillus,Ligilactobacillus_salivarius,Milk products,2,3570,1187837,150,0.3
+554,Ligilactobacillus,Ligilactobacillus_salivarius,Oral cavity,9,14729,1187837,150,1.24
+555,Ligilactobacillus,Ligilactobacillus_salivarius,Other food,6,5857,1187837,150,0.49
+556,Ligilactobacillus,Ligilactobacillus_salivarius,Pickles,2,7502,1187837,150,0.63
+557,Ligilactobacillus,Ligilactobacillus_salivarius,Plants,3,3044,1187837,150,0.26
+558,Ligilactobacillus,Ligilactobacillus_salivarius,Probiotics,3,4176,1187837,150,0.35
+559,Ligilactobacillus,Ligilactobacillus_salivarius,Soil,1,2517,1187837,150,0.21
+560,Ligilactobacillus,Ligilactobacillus_salivarius,Starter culture,9,19125,1187837,150,1.61
+561,Ligilactobacillus,Ligilactobacillus_salivarius,Unknown,268,469488,1187837,150,39.52
+562,Ligilactobacillus,Ligilactobacillus_salivarius,Urine,3,6124,1187837,150,0.52
+563,Ligilactobacillus,Ligilactobacillus_salivarius,Vagina,18,35937,1187837,150,3.03
+564,Ligilactobacillus,Ligilactobacillus_salivarius,Yoghurt,2,3248,1187837,150,0.27
+565,Limosilactobacillus,Limosilactobacillus_fermentum,Alcoholic drink,51,44286,713111,49,6.21
+566,Limosilactobacillus,Limosilactobacillus_fermentum,Animals,1,1077,713111,49,0.15
+567,Limosilactobacillus,Limosilactobacillus_fermentum,Bakery products,1,2346,713111,49,0.33
+568,Limosilactobacillus,Limosilactobacillus_fermentum,Cereal,1,1096,713111,49,0.15
+569,Limosilactobacillus,Limosilactobacillus_fermentum,Cheese,141,202802,713111,49,28.44
+570,Limosilactobacillus,Limosilactobacillus_fermentum,Cheese containers,1,2034,713111,49,0.29
+571,Limosilactobacillus,Limosilactobacillus_fermentum,Chicken,1,981,713111,49,0.14
+572,Limosilactobacillus,Limosilactobacillus_fermentum,Corn slurry,1,1045,713111,49,0.15
+573,Limosilactobacillus,Limosilactobacillus_fermentum,Dairy products,3,2693,713111,49,0.38
+574,Limosilactobacillus,Limosilactobacillus_fermentum,Dietary supplements,1,2183,713111,49,0.31
+575,Limosilactobacillus,Limosilactobacillus_fermentum,Environmental material,1,1085,713111,49,0.15
+576,Limosilactobacillus,Limosilactobacillus_fermentum,Feces,60,93845,713111,49,13.16
+577,Limosilactobacillus,Limosilactobacillus_fermentum,Fermented food,44,54598,713111,49,7.66
+578,Limosilactobacillus,Limosilactobacillus_fermentum,Fermented milk,2,2907,713111,49,0.41
+579,Limosilactobacillus,Limosilactobacillus_fermentum,Fish,2,2130,713111,49,0.3
+580,Limosilactobacillus,Limosilactobacillus_fermentum,Fodder,2,2862,713111,49,0.4
+581,Limosilactobacillus,Limosilactobacillus_fermentum,Fruit juice,1,828,713111,49,0.12
+582,Limosilactobacillus,Limosilactobacillus_fermentum,Honey,1,1041,713111,49,0.15
+583,Limosilactobacillus,Limosilactobacillus_fermentum,Human,6,10171,713111,49,1.43
+584,Limosilactobacillus,Limosilactobacillus_fermentum,Human gut,7,11174,713111,49,1.57
+585,Limosilactobacillus,Limosilactobacillus_fermentum,Lab culture,1,1791,713111,49,0.25
+586,Limosilactobacillus,Limosilactobacillus_fermentum,Meat & meat products,14,30837,713111,49,4.32
+587,Limosilactobacillus,Limosilactobacillus_fermentum,Medical device,1,1525,713111,49,0.21
+588,Limosilactobacillus,Limosilactobacillus_fermentum,Milk,15,36212,713111,49,5.08
+589,Limosilactobacillus,Limosilactobacillus_fermentum,Non-alcoholic drink,1,2231,713111,49,0.31
+590,Limosilactobacillus,Limosilactobacillus_fermentum,Oral cavity,5,7011,713111,49,0.98
+591,Limosilactobacillus,Limosilactobacillus_fermentum,Other food,12,15679,713111,49,2.2
+592,Limosilactobacillus,Limosilactobacillus_fermentum,Probiotics,1,696,713111,49,0.1
+593,Limosilactobacillus,Limosilactobacillus_fermentum,Seeds,2,2128,713111,49,0.3
+594,Limosilactobacillus,Limosilactobacillus_fermentum,Soil,4,5711,713111,49,0.8
+595,Limosilactobacillus,Limosilactobacillus_fermentum,Starter culture,1,1445,713111,49,0.2
+596,Limosilactobacillus,Limosilactobacillus_fermentum,Tea,1,2409,713111,49,0.34
+597,Limosilactobacillus,Limosilactobacillus_fermentum,Unknown,115,156182,713111,49,21.9
+598,Limosilactobacillus,Limosilactobacillus_fermentum,Urine,1,1723,713111,49,0.24
+599,Limosilactobacillus,Limosilactobacillus_fermentum,Vagina,3,4780,713111,49,0.67
+600,Limosilactobacillus,Limosilactobacillus_fermentum,Whey,1,1567,713111,49,0.22
+601,Limosilactobacillus,Limosilactobacillus_reuteri,Alcoholic drink,2,3369,999325,100,0.34
+602,Limosilactobacillus,Limosilactobacillus_reuteri,Animal,1,1482,999325,100,0.15
+603,Limosilactobacillus,Limosilactobacillus_reuteri,Animal gut,8,26491,999325,100,2.65
+604,Limosilactobacillus,Limosilactobacillus_reuteri,Animal organs,1,1462,999325,100,0.15
+605,Limosilactobacillus,Limosilactobacillus_reuteri,Apple dumpster,3,6117,999325,100,0.61
+606,Limosilactobacillus,Limosilactobacillus_reuteri,Bakery products,9,21730,999325,100,2.17
+607,Limosilactobacillus,Limosilactobacillus_reuteri,Beer container,1,1779,999325,100,0.18
+608,Limosilactobacillus,Limosilactobacillus_reuteri,Blood,19,39599,999325,100,3.96
+609,Limosilactobacillus,Limosilactobacillus_reuteri,Cheese,9,16044,999325,100,1.61
+610,Limosilactobacillus,Limosilactobacillus_reuteri,Commercial products,2,1652,999325,100,0.17
+611,Limosilactobacillus,Limosilactobacillus_reuteri,Dairy products,11,16805,999325,100,1.68
+612,Limosilactobacillus,Limosilactobacillus_reuteri,Dietary supplements,25,41240,999325,100,4.13
+613,Limosilactobacillus,Limosilactobacillus_reuteri,Feces,74,135396,999325,100,13.55
+614,Limosilactobacillus,Limosilactobacillus_reuteri,Fermented food,31,61645,999325,100,6.17
+615,Limosilactobacillus,Limosilactobacillus_reuteri,Fermented milk,7,12168,999325,100,1.22
+616,Limosilactobacillus,Limosilactobacillus_reuteri,Fodder,5,9677,999325,100,0.97
+617,Limosilactobacillus,Limosilactobacillus_reuteri,Fruits,1,1027,999325,100,0.1
+618,Limosilactobacillus,Limosilactobacillus_reuteri,Human,18,56480,999325,100,5.65
+619,Limosilactobacillus,Limosilactobacillus_reuteri,Human gut,35,78633,999325,100,7.87
+620,Limosilactobacillus,Limosilactobacillus_reuteri,Industry,2,4370,999325,100,0.44
+621,Limosilactobacillus,Limosilactobacillus_reuteri,Insect gut,1,1775,999325,100,0.18
+622,Limosilactobacillus,Limosilactobacillus_reuteri,Insects,2,3350,999325,100,0.34
+623,Limosilactobacillus,Limosilactobacillus_reuteri,Kitchen E,2,3489,999325,100,0.35
+624,Limosilactobacillus,Limosilactobacillus_reuteri,Medical device,3,5685,999325,100,0.57
+625,Limosilactobacillus,Limosilactobacillus_reuteri,Medical procedure,4,7154,999325,100,0.72
+626,Limosilactobacillus,Limosilactobacillus_reuteri,Milk,9,16401,999325,100,1.64
+627,Limosilactobacillus,Limosilactobacillus_reuteri,Non-alcoholic drink,1,1381,999325,100,0.14
+628,Limosilactobacillus,Limosilactobacillus_reuteri,Oral cavity,8,12386,999325,100,1.24
+629,Limosilactobacillus,Limosilactobacillus_reuteri,Other food,4,6209,999325,100,0.62
+630,Limosilactobacillus,Limosilactobacillus_reuteri,Piglets,1,3648,999325,100,0.37
+631,Limosilactobacillus,Limosilactobacillus_reuteri,Plants,1,1324,999325,100,0.13
+632,Limosilactobacillus,Limosilactobacillus_reuteri,Probiotics,9,17871,999325,100,1.79
+633,Limosilactobacillus,Limosilactobacillus_reuteri,Starter culture,4,5995,999325,100,0.6
+634,Limosilactobacillus,Limosilactobacillus_reuteri,Unknown,156,343082,999325,100,34.33
+635,Limosilactobacillus,Limosilactobacillus_reuteri,Urine,3,4070,999325,100,0.41
+636,Limosilactobacillus,Limosilactobacillus_reuteri,Vagina,8,14716,999325,100,1.47
+637,Limosilactobacillus,Limosilactobacillus_reuteri,Vegetables,4,5763,999325,100,0.58
+638,Limosilactobacillus,Limosilactobacillus_reuteri,Yoghurt,5,7860,999325,100,0.79
+639,Oenococcus,Oenococcus_oeni,Alcoholic drink,41,31697,125700,72,25.22
+640,Oenococcus,Oenococcus_oeni,Feces,11,16221,125700,72,12.9
+641,Oenococcus,Oenococcus_oeni,Fruit juice,1,828,125700,72,0.66
+642,Oenococcus,Oenococcus_oeni,Human,2,3321,125700,72,2.64
+643,Oenococcus,Oenococcus_oeni,Human gut,3,4323,125700,72,3.44
+644,Oenococcus,Oenococcus_oeni,Lab culture,1,1791,125700,72,1.42
+645,Oenococcus,Oenococcus_oeni,Medical device,1,1525,125700,72,1.21
+646,Oenococcus,Oenococcus_oeni,Milk,2,2541,125700,72,2.02
+647,Oenococcus,Oenococcus_oeni,Tea,1,2409,125700,72,1.92
+648,Oenococcus,Oenococcus_oeni,Unknown,42,55397,125700,72,44.07
+649,Oenococcus,Oenococcus_oeni,Urine,1,1723,125700,72,1.37
+650,Oenococcus,Oenococcus_oeni,Vagina,2,3924,125700,72,3.12
+651,Pediococcus,Pediococcus_acidilactici,Alcoholic drink,47,38580,485744,193,7.94
+652,Pediococcus,Pediococcus_acidilactici,Animals,1,1077,485744,193,0.22
+653,Pediococcus,Pediococcus_acidilactici,Cereal,1,1096,485744,193,0.23
+654,Pediococcus,Pediococcus_acidilactici,Cheese,118,156754,485744,193,32.27
+655,Pediococcus,Pediococcus_acidilactici,Cheese containers,1,2034,485744,193,0.42
+656,Pediococcus,Pediococcus_acidilactici,Chicken,1,981,485744,193,0.2
+657,Pediococcus,Pediococcus_acidilactici,Corn slurry,1,1045,485744,193,0.22
+658,Pediococcus,Pediococcus_acidilactici,Dairy products,2,1964,485744,193,0.4
+659,Pediococcus,Pediococcus_acidilactici,Dietary supplements,1,2183,485744,193,0.45
+660,Pediococcus,Pediococcus_acidilactici,Environmental material,1,1085,485744,193,0.22
+661,Pediococcus,Pediococcus_acidilactici,Feces,54,85528,485744,193,17.61
+662,Pediococcus,Pediococcus_acidilactici,Fermented food,21,24281,485744,193,5.0
+663,Pediococcus,Pediococcus_acidilactici,Fermented milk,1,1257,485744,193,0.26
+664,Pediococcus,Pediococcus_acidilactici,Fish,2,2130,485744,193,0.44
+665,Pediococcus,Pediococcus_acidilactici,Fodder,2,2862,485744,193,0.59
+666,Pediococcus,Pediococcus_acidilactici,Fruit juice,1,828,485744,193,0.17
+667,Pediococcus,Pediococcus_acidilactici,Honey,1,1041,485744,193,0.21
+668,Pediococcus,Pediococcus_acidilactici,Human,5,7708,485744,193,1.59
+669,Pediococcus,Pediococcus_acidilactici,Human gut,5,7138,485744,193,1.47
+670,Pediococcus,Pediococcus_acidilactici,Lab culture,1,1791,485744,193,0.37
+671,Pediococcus,Pediococcus_acidilactici,Meat & meat products,2,2388,485744,193,0.49
+672,Pediococcus,Pediococcus_acidilactici,Medical device,1,1525,485744,193,0.31
+673,Pediococcus,Pediococcus_acidilactici,Milk,6,7664,485744,193,1.58
+674,Pediococcus,Pediococcus_acidilactici,Other food,9,9471,485744,193,1.95
+675,Pediococcus,Pediococcus_acidilactici,Seeds,2,2128,485744,193,0.44
+676,Pediococcus,Pediococcus_acidilactici,Soil,4,5711,485744,193,1.18
+677,Pediococcus,Pediococcus_acidilactici,Tea,1,2409,485744,193,0.5
+678,Pediococcus,Pediococcus_acidilactici,Unknown,81,105871,485744,193,21.8
+679,Pediococcus,Pediococcus_acidilactici,Urine,1,1723,485744,193,0.35
+680,Pediococcus,Pediococcus_acidilactici,Vagina,2,3924,485744,193,0.81
+681,Pediococcus,Pediococcus_acidilactici,Whey,1,1567,485744,193,0.32
+682,Pediococcus,Pediococcus_pentosaceus,Alcoholic drink,43,33903,219866,76,15.42
+683,Pediococcus,Pediococcus_pentosaceus,Animals,1,1077,219866,76,0.49
+684,Pediococcus,Pediococcus_pentosaceus,Cereal,1,1096,219866,76,0.5
+685,Pediococcus,Pediococcus_pentosaceus,Cheese,17,22959,219866,76,10.44
+686,Pediococcus,Pediococcus_pentosaceus,Cheese containers,1,2034,219866,76,0.93
+687,Pediococcus,Pediococcus_pentosaceus,Dairy products,1,1090,219866,76,0.5
+688,Pediococcus,Pediococcus_pentosaceus,Dietary supplements,1,2183,219866,76,0.99
+689,Pediococcus,Pediococcus_pentosaceus,Environmental material,1,1085,219866,76,0.49
+690,Pediococcus,Pediococcus_pentosaceus,Feces,15,20894,219866,76,9.5
+691,Pediococcus,Pediococcus_pentosaceus,Fermented food,13,14219,219866,76,6.47
+692,Pediococcus,Pediococcus_pentosaceus,Fermented milk,1,1257,219866,76,0.57
+693,Pediococcus,Pediococcus_pentosaceus,Fish,1,1140,219866,76,0.52
+694,Pediococcus,Pediococcus_pentosaceus,Fodder,1,1102,219866,76,0.5
+695,Pediococcus,Pediococcus_pentosaceus,Fruit juice,1,828,219866,76,0.38
+696,Pediococcus,Pediococcus_pentosaceus,Human,2,3321,219866,76,1.51
+697,Pediococcus,Pediococcus_pentosaceus,Human gut,4,5403,219866,76,2.46
+698,Pediococcus,Pediococcus_pentosaceus,Lab culture,1,1791,219866,76,0.81
+699,Pediococcus,Pediococcus_pentosaceus,Meat & meat products,1,1257,219866,76,0.57
+700,Pediococcus,Pediococcus_pentosaceus,Medical device,1,1525,219866,76,0.69
+701,Pediococcus,Pediococcus_pentosaceus,Milk,6,7664,219866,76,3.49
+702,Pediococcus,Pediococcus_pentosaceus,Other food,1,1226,219866,76,0.56
+703,Pediococcus,Pediococcus_pentosaceus,Seeds,2,2128,219866,76,0.97
+704,Pediococcus,Pediococcus_pentosaceus,Soil,1,1185,219866,76,0.54
+705,Pediococcus,Pediococcus_pentosaceus,Tea,1,2409,219866,76,1.1
+706,Pediococcus,Pediococcus_pentosaceus,Unknown,62,79876,219866,76,36.33
+707,Pediococcus,Pediococcus_pentosaceus,Urine,1,1723,219866,76,0.78
+708,Pediococcus,Pediococcus_pentosaceus,Vagina,2,3924,219866,76,1.78
+709,Pediococcus,Pediococcus_pentosaceus,Whey,1,1567,219866,76,0.71
+710,Weissella,Weissella_cibaria,Animal organs,1,1462,442077,57,0.33
+711,Weissella,Weissella_cibaria,Bakery products,2,5102,442077,57,1.15
+712,Weissella,Weissella_cibaria,Blood,19,39599,442077,57,8.96
+713,Weissella,Weissella_cibaria,Cheese,5,9480,442077,57,2.14
+714,Weissella,Weissella_cibaria,Dairy products,7,11714,442077,57,2.65
+715,Weissella,Weissella_cibaria,Dietary supplements,10,17659,442077,57,3.99
+716,Weissella,Weissella_cibaria,Feces,49,88788,442077,57,20.08
+717,Weissella,Weissella_cibaria,Fermented food,23,47181,442077,57,10.67
+718,Weissella,Weissella_cibaria,Fermented milk,7,12168,442077,57,2.75
+719,Weissella,Weissella_cibaria,Fodder,2,3009,442077,57,0.68
+720,Weissella,Weissella_cibaria,Human,9,17691,442077,57,4.0
+721,Weissella,Weissella_cibaria,Human gut,16,29257,442077,57,6.62
+722,Weissella,Weissella_cibaria,Insects,1,1577,442077,57,0.36
+723,Weissella,Weissella_cibaria,Medical device,2,4729,442077,57,1.07
+724,Weissella,Weissella_cibaria,Medical procedure,4,7154,442077,57,1.62
+725,Weissella,Weissella_cibaria,Milk,3,5832,442077,57,1.32
+726,Weissella,Weissella_cibaria,Non-alcoholic drink,1,1381,442077,57,0.31
+727,Weissella,Weissella_cibaria,Oral cavity,8,12386,442077,57,2.8
+728,Weissella,Weissella_cibaria,Other food,1,1581,442077,57,0.36
+729,Weissella,Weissella_cibaria,Plants,1,1324,442077,57,0.3
+730,Weissella,Weissella_cibaria,Probiotics,7,15331,442077,57,3.47
+731,Weissella,Weissella_cibaria,Starter culture,1,2221,442077,57,0.5
+732,Weissella,Weissella_cibaria,Unknown,47,87005,442077,57,19.68
+733,Weissella,Weissella_cibaria,Vagina,6,9980,442077,57,2.26
+734,Weissella,Weissella_cibaria,Vegetables,3,3888,442077,57,0.88
+735,Weissella,Weissella_cibaria,Yoghurt,2,4578,442077,57,1.04
+736,Weissella,Weissella_confusa,Alcoholic drink,6,13536,1326272,72,1.02
+737,Weissella,Weissella_confusa,Animal,7,21863,1326272,72,1.65
+738,Weissella,Weissella_confusa,Animal gut,6,19154,1326272,72,1.44
+739,Weissella,Weissella_confusa,Apple dumpster,1,969,1326272,72,0.07
+740,Weissella,Weissella_confusa,Bakery products,19,39100,1326272,72,2.95
+741,Weissella,Weissella_confusa,Biofilm,5,13534,1326272,72,1.02
+742,Weissella,Weissella_confusa,Blood,8,15415,1326272,72,1.16
+743,Weissella,Weissella_confusa,Cereal,2,3284,1326272,72,0.25
+744,Weissella,Weissella_confusa,Cheese,43,51951,1326272,72,3.92
+745,Weissella,Weissella_confusa,Commercial products,1,857,1326272,72,0.06
+746,Weissella,Weissella_confusa,Congee,1,952,1326272,72,0.07
+747,Weissella,Weissella_confusa,Dairy products,12,18575,1326272,72,1.4
+748,Weissella,Weissella_confusa,Dietary supplements,12,14350,1326272,72,1.08
+749,Weissella,Weissella_confusa,Environment,6,14824,1326272,72,1.12
+750,Weissella,Weissella_confusa,Feces,74,125030,1326272,72,9.43
+751,Weissella,Weissella_confusa,Fermented food,71,142981,1326272,72,10.78
+752,Weissella,Weissella_confusa,Fermented milk,12,14916,1326272,72,1.12
+753,Weissella,Weissella_confusa,Fish,1,1560,1326272,72,0.12
+754,Weissella,Weissella_confusa,Fish gut,1,838,1326272,72,0.06
+755,Weissella,Weissella_confusa,Fodder,3,4512,1326272,72,0.34
+756,Weissella,Weissella_confusa,Fruits,1,1015,1326272,72,0.08
+757,Weissella,Weissella_confusa,Human,51,102573,1326272,72,7.73
+758,Weissella,Weissella_confusa,Human gut,29,61236,1326272,72,4.62
+759,Weissella,Weissella_confusa,Industry,4,5441,1326272,72,0.41
+760,Weissella,Weissella_confusa,Kitchen E,1,957,1326272,72,0.07
+761,Weissella,Weissella_confusa,Lab culture,1,853,1326272,72,0.06
+762,Weissella,Weissella_confusa,Meat & meat products,7,8174,1326272,72,0.62
+763,Weissella,Weissella_confusa,Medical procedure,1,1791,1326272,72,0.14
+764,Weissella,Weissella_confusa,Milk,17,22975,1326272,72,1.73
+765,Weissella,Weissella_confusa,Milk products,2,3570,1326272,72,0.27
+766,Weissella,Weissella_confusa,Oral cavity,10,16371,1326272,72,1.23
+767,Weissella,Weissella_confusa,Other food,10,13507,1326272,72,1.02
+768,Weissella,Weissella_confusa,Pickles,2,7502,1326272,72,0.57
+769,Weissella,Weissella_confusa,Plants,4,5285,1326272,72,0.4
+770,Weissella,Weissella_confusa,Probiotics,3,4176,1326272,72,0.31
+771,Weissella,Weissella_confusa,Soil,1,2517,1326272,72,0.19
+772,Weissella,Weissella_confusa,Starter culture,9,19125,1326272,72,1.44
+773,Weissella,Weissella_confusa,Unknown,274,480281,1326272,72,36.21
+774,Weissella,Weissella_confusa,Urine,3,6124,1326272,72,0.46
+775,Weissella,Weissella_confusa,Vagina,18,35937,1326272,72,2.71
+776,Weissella,Weissella_confusa,Vegetables,3,5413,1326272,72,0.41
+777,Weissella,Weissella_confusa,Yoghurt,2,3248,1326272,72,0.24
